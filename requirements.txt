@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+streamlit>=1.32
+tensorflow>=2.13
+scikit-learn
+plotly
+pandas
+numpy
+joblib

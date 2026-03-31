@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -9,4 +10,17 @@ scikit-learn
 plotly
 pandas
 numpy
+=======
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+streamlit>=1.32
+tensorflow>=2.13
+scikit-learn
+plotly
+pandas
+numpy
+>>>>>>> ba5d9fe8fee6dff968b8932933f6a352e8b72da6
 joblib

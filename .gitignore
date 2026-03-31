@@ -1,0 +1,30 @@
+# Virtual Environment
+lstm_env/
+venv/
+env/
+
+# Trained Models (large binary files)
+*.keras
+*.h5
+*.pkl
+
+# Dataset (large file - add to releases or share separately)
+*.csv
+
+# Generated output images
+*.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
